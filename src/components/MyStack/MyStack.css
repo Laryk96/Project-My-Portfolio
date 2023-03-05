@@ -1,0 +1,13 @@
+.myStack {
+    padding: 40px 0;
+}
+
+/* Content List */
+
+.content-list {
+    row-gap: 20px;
+}
+
+.content-list__item {
+    font-size: 16px;
+}

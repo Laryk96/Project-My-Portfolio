@@ -1,0 +1,49 @@
+.aboutMy {
+    padding-top: 160px;
+    padding-bottom: 40px;
+    min-height: 695px;
+
+    background-color: var(--header-bg);
+    background-image: url('./../../img/header-bg.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center center;
+
+    color: var(--header-text);
+    text-align: center;
+}
+
+.aboutMy__wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 15px;
+    max-width: 660px;
+}
+
+.aboutMy__title {
+
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1.4;
+}
+
+.aboutMy__title strong {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.aboutMy__title em {
+    font-style: normal;
+    color: var(--accent);
+}
+
+.aboutMy__text {
+    margin-bottom: 40px;
+    font-size: 18px;
+    line-height: 1.333;
+}
+
+.aboutMy__text p+p {
+    margin-top: 0.5em;
+}

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Project-My-Portfolio/static/css/main.f601f503.css",
-    "main.js": "/Project-My-Portfolio/static/js/main.7c017372.js",
+    "main.js": "/Project-My-Portfolio/static/js/main.4889767c.js",
     "static/js/787.8b11e2ca.chunk.js": "/Project-My-Portfolio/static/js/787.8b11e2ca.chunk.js",
     "static/media/04-big.jpg": "/Project-My-Portfolio/static/media/04-big.9dc8caf822c4a4116af4.jpg",
     "static/media/01-big.jpg": "/Project-My-Portfolio/static/media/01-big.ecb03349664096d93b17.jpg",
@@ -9,6 +9,7 @@
     "static/media/05-big.jpg": "/Project-My-Portfolio/static/media/05-big.f315645c87f1dfe5c2c6.jpg",
     "static/media/02-big.jpg": "/Project-My-Portfolio/static/media/02-big.55e8268286a008f0aa84.jpg",
     "static/media/06-big.jpg": "/Project-My-Portfolio/static/media/06-big.51b90ae43fdfcf0ab077.jpg",
+    "static/media/Lary_Aguebor_Frontend-Dev.pdf": "/Project-My-Portfolio/static/media/Lary_Aguebor_Frontend-Dev.931293e7536fbe8c53c1.pdf",
     "static/media/04.jpg": "/Project-My-Portfolio/static/media/04.da38cca11cede6d4ef43.jpg",
     "static/media/01.jpg": "/Project-My-Portfolio/static/media/01.793b5447d182a00fa739.jpg",
     "static/media/03.jpg": "/Project-My-Portfolio/static/media/03.a1f0cefe3665b6313065.jpg",
@@ -25,11 +26,11 @@
     "index.html": "/Project-My-Portfolio/index.html",
     "static/media/icons8-facebook.svg": "/Project-My-Portfolio/static/media/icons8-facebook.e6a4731a8b0191aa1c19da727f6947bb.svg",
     "main.f601f503.css.map": "/Project-My-Portfolio/static/css/main.f601f503.css.map",
-    "main.7c017372.js.map": "/Project-My-Portfolio/static/js/main.7c017372.js.map",
+    "main.4889767c.js.map": "/Project-My-Portfolio/static/js/main.4889767c.js.map",
     "787.8b11e2ca.chunk.js.map": "/Project-My-Portfolio/static/js/787.8b11e2ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f601f503.css",
-    "static/js/main.7c017372.js"
+    "static/js/main.4889767c.js"
   ]
 }
